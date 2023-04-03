@@ -8,6 +8,10 @@ Note: Do not commit impressions, download these from S3
 -----------
 This directory is the main spot for executable code. All code in regards to report generation should be stored here.
 
+### final_reports
+-----------------
+This directory is where the resulting reports are stored before we send them to the client
+
 ### helpers
 TODO...
 
