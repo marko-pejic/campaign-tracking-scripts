@@ -1,0 +1,926 @@
+seller_name,publisher_name,hostname,placement_id,size,ratio,average_fixation_duration,average_fixation_duration_filtered,eyetracker_on
+BONNIER NEWS AB,BMB Allt om mat,alltomtradgard.expressen.se,20148892,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Allt om mat,alltomtradgard.expressen.se,20148892,980x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Allt om mat,expressen.se,20148892,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Allt om mat,expressen.se,20148892,980x240,36.36,44.73,246.0,True
+BONNIER NEWS AB,BMB Allt om mat,expressen.se,20148892,980x360,42.86,164.24,1149.67,True
+BONNIER NEWS AB,BMB Amelia,expressen.se,20148868,1180x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Amelia,expressen.se,20148868,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Amelia,expressen.se,20148868,980x240,45.0,175.42,701.67,True
+BONNIER NEWS AB,BMB Amelia,expressen.se,20148868,980x360,41.79,335.48,1248.72,True
+BONNIER NEWS AB,BMB Damernas värld,expressen.se,20148878,980x240,40.910000000000004,4.14,30.33,True
+BONNIER NEWS AB,BMB Damernas värld,expressen.se,20148878,980x360,33.33,55.92,111.83,True
+BONNIER NEWS AB,BMB Mama,expressen.se,20148873,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Mama,expressen.se,20148873,980x120,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Mama,expressen.se,20148873,980x240,29.03,31.32,194.2,True
+BONNIER NEWS AB,BMB Mama,expressen.se,20148873,980x360,16.669999999999998,172.83,518.5,True
+BONNIER NEWS AB,BMB Tailsweep,56kilo.se,20148888,980x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Tailsweep,isabellalowengrip.se,20148888,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Tailsweep,monasuniversum.se,20148888,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BMB Teknikens värld,teknikensvarld.expressen.se,20616291,468x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens industri,di.se,20148739,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens industri,di.se,20148739,980x240,25.240000000000002,132.37,999.04,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148696,1180x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148696,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148696,728x90,100.0,1283.0,1283.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148696,980x240,38.07,143.88,1125.15,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148696,980x360,21.57,99.16,1011.4,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,160x600,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,250x480,7.82,89.41,2319.44,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,300x250,4.67,14.04,781.9,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,468x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,468x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,500x555,20.0,0.0,0.0,False
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148697,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,160x600,5.4,46.62,791.35,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,250x120,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,250x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,250x480,12.5,0.0,0.0,False
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,500x555,55.559999999999995,0.0,0.0,False
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148698,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148699,468x240,28.33,22.68,340.25,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148699,468x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148699,500x555,33.33,392.33,1177.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148699,590x100,20.0,42.05,841.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148700,250x280,100.0,454.33,454.33,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148700,250x480,100.0,766.0,766.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148700,300x250,60.0,547.6,855.62,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148700,468x240,100.0,161.0,161.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148700,468x480,100.0,378.0,378.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148701,980x240,45.9,364.16,1169.16,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148701,980x360,66.67,186.0,558.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148703,160x600,8.110000000000001,106.71,1480.62,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148703,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148703,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148707,980x240,39.129999999999995,389.22,3580.8,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148707,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148709,160x600,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148709,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148709,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148733,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148733,980x240,26.919999999999998,328.87,3420.2,True
+BONNIER NEWS AB,BNS Dagens nyheter,dn.se,20148733,980x360,66.67,0.0,0.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148635,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148635,980x240,26.150000000000002,90.82,648.75,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148635,980x360,18.6,189.11,1327.65,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,160x600,5.76,114.22,2149.21,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,250x120,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,250x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,300x250,3.74,18.12,565.14,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,500x555,52.94,0.0,0.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148636,980x360,50.0,0.0,0.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,125x230,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,160x600,4.8,61.09,1392.46,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,250x120,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,250x280,0.98,4.45,454.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,250x360,4.590000000000001,28.96,567.6,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,250x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,300x250,3.83,53.49,1103.53,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,468x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148637,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148638,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148638,468x240,38.56,197.42,1375.04,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148638,468x480,41.91,184.85,1239.25,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148638,500x555,31.69,264.29,1137.24,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148638,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,250x360,50.0,270.75,541.5,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,250x480,50.0,292.5,585.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,285x230,0.0,70.0,70.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,300x250,63.160000000000004,357.26,565.67,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,468x240,100.0,196.5,196.5,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148639,468x480,100.0,647.0,647.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148658,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148658,980x240,9.68,342.71,1517.71,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148658,980x360,25.0,108.5,434.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148668,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148668,468x240,38.1,61.24,428.67,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148668,468x480,54.55,0.0,0.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148671,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148671,980x240,22.45,5.16,126.5,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148671,980x360,54.55,161.61,666.62,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148678,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148678,980x240,8.62,0.0,0.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148678,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148679,160x600,6.99,38.79,467.47,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148679,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148679,300x250,4.4799999999999995,16.81,535.43,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148679,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,160x600,2.18,37.59,1721.4,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,250x280,0.0,6.4,32.0,False
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,250x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,300x250,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148680,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148681,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148681,468x240,37.21,174.5,1304.96,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148681,468x480,45.26,255.59,1348.94,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148681,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148684,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148684,980x240,21.43,80.11,448.6,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148684,980x360,45.45,583.64,1284.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148685,160x600,1.28,4.76,61.83,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148685,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148685,300x250,4.26,47.49,744.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148685,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148686,160x600,2.46,10.18,310.5,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148686,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148686,250x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148686,300x250,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148686,500x555,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148687,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148687,468x240,61.62,446.73,1134.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148687,468x480,41.33,526.92,2822.79,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148687,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148689,300x250,100.0,222.0,222.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148693,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148693,468x240,50.0,1109.28,3327.83,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,20148693,468x480,18.18,46.91,516.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,22445660,250x360,33.33,147.0,441.0,True
+BONNIER NEWS AB,BNS Expressen,expressen.se,22445660,300x250,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148761,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148761,980x240,50.0,321.0,642.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148763,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148763,250x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148763,250x480,0.0,8.86,31.0,False
+BONNIER NEWS AB,BNS HD,hd.se,20148763,300x250,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148765,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS HD,hd.se,20148765,468x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148803,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148803,980x240,26.669999999999998,53.2,798.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148803,980x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148805,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148805,250x360,7.6899999999999995,69.77,907.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148805,250x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148805,300x250,17.65,58.94,501.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148807,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148807,250x280,100.0,322.0,322.0,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148807,300x250,100.0,1723.5,1723.5,True
+BONNIER NEWS AB,BNS Sydsvenskan,sydsvenskan.se,20148807,468x480,100.0,889.0,889.0,True
+BONNIER NEWS AB,MM NA,na.se,20149205,980x240,0.0,14.5,29.0,False
+BONNIER NEWS AB,MM NA,na.se,22875580,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,MM NA,na.se,22875580,250x360,0.0,0.0,0.0,True
+BONNIER NEWS AB,MM NA,na.se,22875580,250x480,0.0,0.0,0.0,True
+BONNIER NEWS AB,MM NA,na.se,22875580,300x250,50.0,0.0,0.0,False
+BONNIER NEWS AB,MM VLT,vlt.se,20149361,180x150,0.0,0.0,0.0,True
+BONNIER NEWS AB,MM VLT,vlt.se,20149361,468x240,0.0,0.0,0.0,True
+BONNIER NEWS AB,MM VLT,vlt.se,20149361,980x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,160x600,5.24,53.01,844.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,250x480,6.63,109.15,1756.53,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,285x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,300x250,3.83,24.47,719.54,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,468x240,12.370000000000001,6.45,208.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,468x480,20.18,18.19,296.29,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,500x555,19.73,279.03,4301.75,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499407,980x360,16.09,197.07,1905.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,1180x240,50.0,5862.5,11725.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,468x240,55.45,645.63,1775.91,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,468x480,67.80000000000001,1130.2,2632.18,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,500x555,52.61,1780.08,4759.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,590x100,38.64,306.19,985.78,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,728x90,57.14,1177.74,2290.06,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499410,980x360,48.480000000000004,3160.44,7192.72,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499411,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499411,468x240,40.78,542.04,2030.46,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499411,468x480,72.98,1021.35,2407.48,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499411,500x555,83.33,4417.22,8834.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499411,980x360,67.92,6153.06,10519.74,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,1180x240,2.4,12.83,535.75,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,125x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,160x600,3.34,62.27,1361.09,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,250x480,2.92,57.73,1326.65,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,500x555,7.2700000000000005,172.49,2135.19,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499417,980x360,7.42,99.55,1750.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,160x600,6.63,67.4,828.92,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,250x120,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,250x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,250x480,5.66,65.57,915.78,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,285x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,300x250,3.88,45.21,1126.09,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,468x240,5.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,468x480,11.110000000000001,16.89,152.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,500x555,8.17,38.38,524.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499420,980x360,3.5700000000000003,8.5,238.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,160x600,5.4399999999999995,150.67,2540.42,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,250x480,4.109999999999999,51.51,1017.42,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,300x250,2.7199999999999998,19.77,675.42,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,468x240,20.51,40.77,318.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,468x480,0.0,3.05,67.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,500x555,8.61,84.46,910.93,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499421,980x360,16.669999999999998,50.56,910.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,160x600,1.6199999999999999,7.03,433.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,250x480,3.6900000000000004,28.81,672.47,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,300x250,2.2800000000000002,18.16,632.04,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,468x240,10.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,468x480,8.0,5.28,132.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,500x555,6.819999999999999,60.15,588.11,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499422,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,160x600,4.5,39.07,934.62,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,250x480,3.84,29.88,644.97,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,300x250,2.16,8.31,311.21,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,468x480,7.41,12.15,164.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,500x555,16.42,39.78,666.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499423,980x360,14.29,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,160x600,3.91,17.96,306.53,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,250x480,3.62,27.05,642.8,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,300x250,2.32,8.67,340.3,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,500x555,12.5,60.4,579.8,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499424,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,160x600,7.48,20.23,166.54,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,250x480,4.03,54.3,1094.69,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,300x250,2.73,12.42,441.03,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,468x240,25.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,468x480,0.0,20.0,60.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,500x555,9.520000000000001,53.1,557.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499425,980x360,25.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,160x600,25.0,80.5,322.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,468x240,28.71,118.23,722.83,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,468x480,27.810000000000002,93.85,944.8,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,500x555,40.400000000000006,411.09,1690.71,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,728x90,30.769999999999996,29.85,194.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499428,980x360,25.77,446.14,2118.09,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499429,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499429,468x240,38.56,112.85,444.08,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499429,468x480,66.67,200.33,601.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499429,500x555,73.68,649.37,1762.57,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499429,980x360,33.33,106.58,639.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499430,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499430,468x240,37.78,130.48,483.74,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499430,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499430,500x555,61.53999999999999,1093.38,2369.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499430,980x360,43.480000000000004,376.7,1237.71,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,468x240,34.870000000000005,175.44,841.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,468x480,51.72,2092.59,8669.29,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,500x555,33.11,245.51,1114.48,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,590x100,100.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,728x90,33.33,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499431,980x360,32.14,472.58,1587.86,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,160x600,33.33,132.0,396.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,468x240,36.46,146.61,694.96,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,468x480,40.0,36.96,290.43,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,500x555,58.330000000000005,442.09,1836.38,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,728x90,33.33,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499432,980x360,34.839999999999996,347.62,1539.46,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,468x240,37.45,173.46,770.92,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,468x480,48.57,259.54,1009.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,500x555,67.09,321.33,1103.7,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499433,980x360,33.050000000000004,305.17,1286.07,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,468x240,37.63,161.9,658.28,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,468x480,44.83,13.45,97.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,500x555,66.67,401.82,1205.47,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499434,980x360,50.0,602.21,1787.19,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,160x600,100.0,219.0,219.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,468x240,34.79,183.7,767.55,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,468x480,50.0,53.29,149.2,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,500x555,67.44,402.95,1732.7,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499435,980x360,33.33,447.64,1737.88,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,468x240,37.980000000000004,155.66,611.11,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,468x480,56.25,178.94,1431.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,500x555,55.00000000000001,262.1,1747.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499436,980x360,29.549999999999997,320.23,1174.17,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499437,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499437,468x240,38.35,158.21,637.96,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499437,468x480,69.23,449.08,1946.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499437,500x555,79.17,511.58,2046.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499437,980x360,32.56,119.28,732.71,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499438,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499438,468x240,35.620000000000005,130.88,515.62,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499438,468x480,42.86,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499438,500x555,43.75,49.06,314.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499438,980x360,23.080000000000002,710.12,3077.17,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,1180x240,54.52,2386.4,8245.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,590x100,33.33,9.17,55.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,728x90,36.36,169.64,933.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,980x240,28.02,152.91,1026.93,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499441,980x360,47.96,898.35,3549.64,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,125x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,160x600,4.2299999999999995,59.07,1010.22,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,250x120,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,250x480,2.45,25.02,615.84,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,500x555,6.529999999999999,80.18,963.71,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499442,980x360,17.93,125.57,1155.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,125x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,160x600,2.1,27.83,1003.13,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,250x480,2.77,22.09,630.53,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,500x555,4.65,35.73,639.07,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499443,980x360,8.18,94.05,1359.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,250x360,37.84,508.18,1175.16,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,285x230,8.469999999999999,45.8,450.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,300x250,57.220000000000006,1011.86,1718.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,468x240,0.0,13.0,26.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,468x480,100.0,3117.5,3117.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,500x555,100.0,8307.0,8307.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499465,980x360,100.0,351.0,351.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,250x360,45.67,1256.36,2493.09,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,250x480,60.0,1099.2,1832.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,300x250,59.9,933.81,1439.92,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,468x240,40.0,182.8,304.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,500x555,80.0,7975.2,13292.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499466,980x360,100.0,2327.67,2327.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,250x360,32.51,511.67,1366.96,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,250x480,33.33,3685.67,11057.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,300x250,36.730000000000004,483.68,1401.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,468x240,50.0,244.0,650.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499470,980x360,100.0,711.0,711.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,250x360,43.2,362.72,786.53,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,250x480,63.63999999999999,4467.91,6143.38,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,300x250,47.89,421.4,883.82,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,468x240,83.33,440.5,660.75,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,468x480,66.67,381.52,728.36,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,500x555,70.37,7305.69,9393.02,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499475,980x360,66.67,251.33,377.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499476,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499476,250x360,75.0,403.88,538.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499476,300x250,38.46,139.85,181.8,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499476,980x360,0.0,64.0,64.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499477,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499477,300x250,42.86,269.93,419.89,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499477,468x240,0.0,61.0,61.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,250x360,72.72999999999999,512.73,716.2,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,250x480,50.0,403.5,403.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,300x250,60.64000000000001,484.85,759.6,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,468x240,57.14,231.0,404.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,468x480,85.71,363.86,424.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,500x555,100.0,596.0,596.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499478,980x360,100.0,675.0,675.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,250x360,62.41,435.53,650.85,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,250x480,100.0,122.0,122.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,300x250,55.379999999999995,304.35,549.53,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,468x480,50.0,388.5,466.2,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499479,980x360,100.0,319.0,319.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499480,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499480,250x360,80.33,336.49,427.62,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499480,250x480,100.0,980.0,980.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499480,300x250,73.08,456.12,551.58,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499481,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499481,250x360,80.65,448.63,579.48,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499481,300x250,80.77,203.85,252.38,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499481,468x480,100.0,375.25,500.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499481,980x360,100.0,144.0,144.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499482,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499482,250x360,68.75,390.56,446.36,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499482,300x250,43.33,204.77,472.54,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499482,468x240,100.0,519.5,519.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499483,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499483,250x360,55.559999999999995,260.07,468.13,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499483,300x250,75.0,333.25,410.15,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499483,468x240,100.0,316.0,316.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499483,468x480,100.0,300.5,300.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499485,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499485,250x360,62.5,256.88,411.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499485,300x250,63.63999999999999,485.27,667.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499486,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499486,250x360,44.440000000000005,326.5,534.27,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499486,300x250,88.89,292.89,329.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,250x360,58.050000000000004,889.14,1502.54,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,250x480,100.0,92.0,92.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,300x250,45.94,1211.48,2550.8,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,468x240,76.92,4390.85,5708.1,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19499490,980x360,100.0,632.5,632.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19500003,1180x240,53.839999999999996,3187.99,9066.91,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19500003,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19500003,728x90,33.33,348.67,1046.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19500003,980x240,16.66,104.64,1355.62,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,19500003,980x360,50.99,1319.34,4708.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,468x120,100.0,225.5,225.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,468x240,35.96,278.63,953.13,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,468x480,50.0,487.62,1300.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,500x555,64.29,3085.14,5399.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,590x100,28.660000000000004,230.2,1187.3,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030150,980x360,51.22,1353.8,3083.67,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,20030150,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,20030150,468x240,26.450000000000003,36.07,311.79,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,20030150,468x480,100.0,411.0,411.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,20030150,500x555,100.0,932.0,932.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,20030150,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030151,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030151,250x120,33.33,96.33,289.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030151,300x250,34.150000000000006,373.71,1134.96,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030151,468x120,23.080000000000002,50.92,220.67,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20030151,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20546989,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,20546989,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067128,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067128,468x240,38.18,140.82,498.73,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067128,468x480,42.86,480.14,1120.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067128,500x555,25.0,372.38,1489.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067128,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067129,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067129,468x240,37.87,168.85,578.54,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067129,468x480,100.0,168.0,504.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067129,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067129,980x360,100.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067130,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067130,468x240,41.589999999999996,139.55,433.5,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067130,468x480,80.0,61.2,102.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067130,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067130,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067133,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067133,468x240,41.449999999999996,195.9,556.19,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067133,468x480,33.33,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067133,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067134,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067134,468x240,37.79,197.63,628.83,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067134,468x480,50.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067134,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067135,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067135,468x240,40.21,104.31,338.32,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067135,468x480,25.0,178.5,714.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067194,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067194,250x360,100.0,421.27,421.27,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067195,250x360,100.0,412.0,412.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067195,300x250,100.0,192.0,192.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067196,250x360,33.33,136.33,136.33,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067197,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067197,250x360,71.43,188.86,188.86,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067199,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067199,250x360,60.0,261.0,435.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067199,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,21067200,250x360,40.0,85.6,214.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373598,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373598,300x250,71.19,515.63,676.04,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373615,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373615,300x250,81.25,1043.16,1283.88,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,160x600,44.440000000000005,134.33,302.25,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,468x240,30.37,195.88,892.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,468x480,14.29,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,500x555,20.0,234.0,936.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,728x90,50.0,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373680,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,160x600,66.67,19820.67,29731.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,468x240,31.819999999999997,199.21,877.59,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,500x555,100.0,1097.5,2195.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373681,980x360,33.33,70.33,211.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373701,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23373701,468x240,42.41,194.41,526.44,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,468x240,37.55,173.05,656.68,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,468x480,42.86,0.0,0.0,False
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375557,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375567,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,aftonbladet.se,23375567,300x250,76.92,465.41,585.52,True
+Schibsted Sweden,SE-Aftonbladet,bloggar.aftonbladet.se,14745815,250x360,100.0,264.0,264.0,True
+Schibsted Sweden,SE-Aftonbladet,bloggar.aftonbladet.se,14746059,160x600,2.4699999999999998,75.06,2135.11,True
+Schibsted Sweden,SE-Aftonbladet,bloggar.aftonbladet.se,14746059,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,esport.aftonbladet.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,esport.aftonbladet.se,14746059,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,film.aftonbladet.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,musik.aftonbladet.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,musik.aftonbladet.se,14746059,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,skonhetsredaktorerna.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,skonhetsredaktorerna.se,14746059,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,spela.aftonbladet.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,tramsfrans.aftonbladet.se,14746059,160x600,4.81,24.18,218.7,True
+Schibsted Sweden,SE-Aftonbladet,tramsfrans.aftonbladet.se,14746059,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,tvkoll.aftonbladet.se,14746059,160x600,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,bloggar.aftonbladet.se,14746240,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499453,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499453,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499453,980x240,17.130000000000003,27.56,545.17,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499454,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499454,468x240,30.159999999999997,132.79,715.42,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499454,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499454,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,19499454,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,160x600,3.6799999999999997,126.87,2464.86,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,250x480,16.669999999999998,3.67,22.0,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,500x555,20.0,1384.4,4614.67,True
+Schibsted Sweden,SE-Aftonbladet,malservice.aftonbladet.se,23582491,980x360,100.0,0.0,0.0,False
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,728x90,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,980x120,5.0,71.2,2034.29,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,980x240,7.140000000000001,43.52,989.27,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499516,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499521,1180x240,43.059999999999995,2110.14,11009.45,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499521,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499521,728x90,4.6899999999999995,3.3,211.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499521,980x240,23.200000000000003,135.12,1321.19,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499521,980x360,31.97,109.07,1330.7,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499532,1180x240,61.11,419.94,2519.67,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499532,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499532,980x240,19.71,46.76,610.94,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499532,980x360,60.56,110.07,434.17,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,125x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,160x600,1.13,7.41,455.33,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,250x480,1.11,4.32,389.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,500x555,3.3300000000000005,79.17,1583.33,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499533,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499535,1180x240,46.150000000000006,3020.85,9817.75,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499535,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499535,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499535,980x240,20.810000000000002,16.85,278.89,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499540,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499540,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499540,980x240,13.819999999999999,50.56,645.35,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499541,160x600,3.1,42.51,914.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499541,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499541,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499542,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499542,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499549,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499549,300x250,14.29,43.64,203.67,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499550,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499550,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499550,300x250,14.29,16.93,94.8,True
+Schibsted Sweden,SE-Blocket,blocket.se,19499550,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746552,1180x240,66.67,0.0,0.0,False
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746552,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746552,980x240,44.61,258.17,631.71,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746552,980x360,66.67,211.67,317.5,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746553,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746553,980x240,49.58,424.69,856.62,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746553,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746554,1180x240,100.0,2718.0,2718.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746554,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746554,980x240,50.72,344.6,773.25,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746556,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746556,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746556,980x240,26.889999999999997,160.11,1025.95,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746556,980x360,55.559999999999995,1060.22,1908.4,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746560,1180x240,100.0,0.0,0.0,False
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746560,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746560,980x240,52.61,846.48,3068.72,True
+Schibsted Sweden,SE-Bytbil,bytbil.com,14746560,980x360,100.0,830.5,830.5,True
+Schibsted Sweden,SE-Godare,godare.se,24655130,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Godare,godare.se,24655130,980x240,31.22,227.59,919.83,True
+Schibsted Sweden,SE-Godare,godare.se,24655130,980x360,52.5,536.28,1261.82,True
+Schibsted Sweden,SE-Godare,godare.se,24657556,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Godare,godare.se,24657556,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Godare,godare.se,24657556,300x250,100.0,100.75,100.75,True
+Schibsted Sweden,SE-Klart,klart.se,19461218,1180x240,22.220000000000002,0.0,0.0,False
+Schibsted Sweden,SE-Klart,klart.se,19461218,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461218,728x90,25.0,283.0,1132.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461218,980x240,38.33,340.79,2145.76,True
+Schibsted Sweden,SE-Klart,klart.se,19461218,980x360,67.11,2470.17,5866.66,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,160x600,15.190000000000001,225.0,1779.76,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,250x120,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,250x360,8.48,17.96,446.89,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,500x555,31.430000000000003,191.23,1673.25,True
+Schibsted Sweden,SE-Klart,klart.se,19461219,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461220,160x600,9.030000000000001,113.48,1375.09,True
+Schibsted Sweden,SE-Klart,klart.se,19461220,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461220,250x120,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461220,250x360,8.42,127.55,1211.7,True
+Schibsted Sweden,SE-Klart,klart.se,19461220,500x555,14.29,110.1,2312.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461224,1180x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461224,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461224,728x90,19.23,63.81,829.5,True
+Schibsted Sweden,SE-Klart,klart.se,19461224,980x240,28.93,181.71,1356.8,True
+Schibsted Sweden,SE-Klart,klart.se,19461224,980x360,50.0,28.5,57.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,250x360,62.150000000000006,811.78,1310.51,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,250x480,76.47,664.76,1130.1,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,285x230,47.370000000000005,653.64,1342.62,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,300x250,48.92,647.71,1300.09,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,468x120,100.0,627.0,627.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,468x240,44.440000000000005,137.33,206.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,468x480,55.559999999999995,759.67,1139.5,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,500x555,100.0,900.0,900.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461232,980x360,100.0,1566.0,1566.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,250x360,70.59,530.41,751.42,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,250x480,78.57,2771.36,3879.9,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,300x250,71.43,732.04,976.05,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,468x240,100.0,880.5,880.5,True
+Schibsted Sweden,SE-Klart,klart.se,19461235,500x555,66.67,2841.67,4262.5,True
+Schibsted Sweden,SE-Klart,klart.se,19461236,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461236,250x360,68.63,786.08,1083.51,True
+Schibsted Sweden,SE-Klart,klart.se,19461236,285x230,100.0,977.6,977.6,True
+Schibsted Sweden,SE-Klart,klart.se,19461236,300x250,71.43,515.29,721.4,True
+Schibsted Sweden,SE-Klart,klart.se,19461236,468x240,100.0,465.0,465.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,250x360,75.56,736.22,920.28,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,250x480,100.0,412.0,412.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,300x250,75.0,639.5,730.86,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,468x240,100.0,1450.0,1450.0,True
+Schibsted Sweden,SE-Klart,klart.se,19461238,468x480,100.0,1116.0,1116.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,250x480,4.06,32.22,776.17,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,285x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,300x250,4.33,32.08,859.99,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,468x480,66.67,3892.5,7785.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499586,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499587,1180x240,40.0,182.8,914.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499587,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499587,980x240,14.6,57.15,700.11,True
+Schibsted Sweden,SE-Omni,omni.se,19499587,980x360,40.0,35.95,359.5,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,250x480,3.08,22.33,615.78,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,300x250,4.18,25.03,703.11,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,468x240,20.0,137.6,688.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499589,500x555,9.09,0.0,0.0,False
+Schibsted Sweden,SE-Omni,omni.se,19499589,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,250x280,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,250x480,1.46,8.38,523.59,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,300x250,1.6,5.3,280.15,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,500x555,11.110000000000001,506.67,4560.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499590,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499591,1180x240,0.0,6.0,30.0,False
+Schibsted Sweden,SE-Omni,omni.se,19499591,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Omni,omni.se,19499591,980x240,13.55,46.44,651.53,True
+Schibsted Sweden,SE-Omni,omni.se,19499591,980x360,37.5,58.62,234.5,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334178,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334178,980x120,17.65,209.76,891.5,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334178,1180x240,50.1,1434.36,4670.25,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334178,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334178,980x120,27.96,129.78,804.52,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334178,980x360,50.0,3365.6,8414.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334184,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334184,980x120,19.23,131.42,569.5,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334184,1180x240,18.18,155.29,854.08,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334184,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334184,980x120,23.46,132.89,677.67,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334188,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334188,980x120,23.47,227.1,794.86,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334188,1180x240,51.81,3535.46,10964.95,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334188,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334188,980x120,24.07,128.82,892.26,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334188,980x360,61.53999999999999,4037.77,10498.2,True
+Schibsted Sweden,SE-Prisjakt,teknikproffset.se,20334188,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,telefoni.prisjakt.nu,20334188,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334189,160x600,0.0,62.27,3051.0,False
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334189,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334189,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334189,250x480,7.140000000000001,124.24,1242.43,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334189,160x600,4.04,30.11,608.97,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334189,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334189,250x360,25.0,69.0,276.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334189,250x480,1.41,4.95,351.67,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334189,500x555,100.0,0.0,0.0,False
+Schibsted Sweden,SE-Prisjakt,telefoni.prisjakt.nu,20334189,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334190,160x600,5.56,6.72,121.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334190,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,classic.prisjakt.nu,20334190,250x480,2.94,14.03,477.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334190,160x600,3.35,44.97,1157.15,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334190,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334190,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334190,250x480,3.3099999999999996,20.51,546.53,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334190,500x555,33.33,1134.33,3403.0,True
+Schibsted Sweden,SE-Prisjakt,telefoni.prisjakt.nu,20334190,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,telefoni.prisjakt.nu,20334190,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334194,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-Prisjakt,prisjakt.nu,20334194,285x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,blog.svd.se,19499712,1180x240,25.0,0.0,0.0,False
+Schibsted Sweden,SE-SvD,blog.svd.se,19499712,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,blog.svd.se,19499712,980x240,7.140000000000001,20.57,288.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499712,1180x240,48.25,503.35,1400.2,True
+Schibsted Sweden,SE-SvD,svd.se,19499712,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499712,980x240,23.52,148.84,669.7,True
+Schibsted Sweden,SE-SvD,svd.se,19499712,980x360,68.89,652.07,1036.33,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,1180x240,32.4,231.72,1069.6,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,468x240,15.73,331.29,1734.41,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,500x555,25.319999999999997,231.47,1697.43,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,980x240,17.68,54.41,497.04,True
+Schibsted Sweden,SE-SvD,svd.se,19499705,980x360,42.99,343.16,1446.24,True
+Schibsted Sweden,SE-SvD,svd.se,19499706,1180x240,52.1,662.01,2090.34,True
+Schibsted Sweden,SE-SvD,svd.se,19499706,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499706,468x240,21.43,515.71,7220.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499706,980x240,45.0,494.61,1615.04,True
+Schibsted Sweden,SE-SvD,svd.se,19499706,980x360,54.35,416.76,798.79,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,1180x240,51.129999999999995,688.71,2643.97,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,468x240,66.67,4168.53,8932.57,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,500x555,85.71,321.57,1125.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,980x240,56.96,891.34,2271.48,True
+Schibsted Sweden,SE-SvD,svd.se,19499707,980x360,62.69,608.4,1314.94,True
+Schibsted Sweden,SE-SvD,svd.se,19499713,160x600,4.97,101.93,2042.06,True
+Schibsted Sweden,SE-SvD,svd.se,19499713,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499713,250x480,4.41,37.4,763.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499713,500x555,42.86,68.07,953.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499713,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499714,160x600,6.23,131.23,2540.36,True
+Schibsted Sweden,SE-SvD,svd.se,19499714,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499714,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499714,500x555,8.33,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499714,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,160x600,8.110000000000001,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499716,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,250x480,10.870000000000001,41.01,849.83,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,300x250,2.33,6.28,270.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,468x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,500x555,16.669999999999998,2.58,31.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499716,980x360,80.0,57.6,288.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499722,1180x240,57.720000000000006,1488.8,10006.84,True
+Schibsted Sweden,SE-SvD,svd.se,19499722,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499722,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499722,500x555,20.0,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499722,980x240,50.0,10.19,107.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499722,980x360,54.56999999999999,212.81,2043.4,True
+Schibsted Sweden,SE-SvD,svd.se,19499723,1180x240,57.52,125.62,1669.54,True
+Schibsted Sweden,SE-SvD,svd.se,19499723,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499723,980x240,45.28,3.89,68.67,True
+Schibsted Sweden,SE-SvD,svd.se,19499723,980x360,42.4,90.23,2956.6,True
+Schibsted Sweden,SE-SvD,svd.se,19499728,1180x240,52.21,148.19,1236.89,True
+Schibsted Sweden,SE-SvD,svd.se,19499728,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499728,980x240,13.41,21.42,4331.25,True
+Schibsted Sweden,SE-SvD,svd.se,19499728,980x360,43.95,5.72,709.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,125x230,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,160x600,7.19,96.0,1992.2,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,250x480,8.649999999999999,46.96,780.69,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,500x555,40.739999999999995,4.48,121.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499729,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499730,160x600,5.949999999999999,34.17,1409.36,True
+Schibsted Sweden,SE-SvD,svd.se,19499730,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499730,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499730,250x480,1.39,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499730,500x555,62.5,25.12,100.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499730,980x360,100.0,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499733,160x600,84.0,643.79,766.41,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,250x360,61.150000000000006,270.74,420.85,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,250x480,71.43,1096.71,1535.4,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,285x230,33.33,78.5,235.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,300x250,57.75,281.53,503.79,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499733,468x480,0.0,66.0,66.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499733,500x555,85.33,2341.0,2786.9,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,160x600,73.68,743.0,1008.36,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,250x360,82.35,441.32,521.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,250x480,100.0,993.5,993.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,285x230,0.0,25.25,50.5,False
+Schibsted Sweden,SE-SvD,svd.se,19499734,300x250,64.56,304.2,457.75,True
+Schibsted Sweden,SE-SvD,svd.se,19499734,500x555,86.67,1487.73,1716.62,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,160x600,38.46,245.69,638.8,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,250x360,71.43,386.71,541.4,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,250x480,100.0,442.5,442.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,300x250,45.68,185.38,375.4,True
+Schibsted Sweden,SE-SvD,svd.se,19499735,500x555,77.78,477.78,716.67,True
+Schibsted Sweden,SE-SvD,svd.se,19499736,250x360,100.0,533.0,533.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499736,300x250,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,250x360,68.28999999999999,667.46,892.37,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,300x250,59.9,427.88,739.81,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,468x240,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,468x480,60.0,497.2,1243.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499741,500x555,100.0,0.0,0.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499741,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,1180x240,100.0,3409.5,3409.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,160x600,68.7,760.67,1093.46,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,250x360,69.84,833.08,1140.96,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,250x480,70.0,1193.1,1704.43,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,300x250,78.72,872.83,1133.15,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,468x240,66.67,652.0,978.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499743,500x555,83.21,4346.62,5637.69,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,160x600,68.33,549.97,804.83,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,250x360,46.839999999999996,617.51,1084.07,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,250x480,93.75,1044.38,1114.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,300x250,71.98,560.72,750.38,True
+Schibsted Sweden,SE-SvD,svd.se,19499744,500x555,88.68,1924.51,2170.19,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,160x600,82.69,673.79,796.3,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,250x360,76.19,415.24,545.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,250x480,53.849999999999994,823.46,1529.29,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,300x250,72.83,347.35,463.14,True
+Schibsted Sweden,SE-SvD,svd.se,19499745,500x555,93.17999999999999,2469.93,2859.92,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,1180x240,100.0,2437.0,2437.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,160x600,79.41,874.79,1025.62,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,250x360,40.0,228.16,570.4,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,250x480,100.0,754.5,754.5,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,300x250,63.63999999999999,355.86,518.78,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,500x555,96.77,2079.84,2223.28,True
+Schibsted Sweden,SE-SvD,svd.se,19499746,980x360,0.0,41.0,41.0,False
+Schibsted Sweden,SE-SvD,svd.se,19499750,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499750,250x360,100.0,612.0,612.0,True
+Schibsted Sweden,SE-SvD,svd.se,19499750,300x250,57.24,850.72,1448.39,True
+Schibsted Sweden,SE-SvD,svd.se,27264940,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,27264940,250x280,50.0,175.0,262.5,True
+Schibsted Sweden,SE-SvD,svd.se,27264940,250x360,80.0,483.0,483.0,True
+Schibsted Sweden,SE-SvD,svd.se,27264940,300x250,41.67,159.17,272.86,True
+Schibsted Sweden,SE-SvD,svd.se,27264953,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-SvD,svd.se,27264953,468x240,59.47,863.76,2357.6,True
+Schibsted Sweden,SE-SvD,svd.se,27264953,728x90,83.33,2246.33,2695.6,True
+Schibsted Sweden,SE-TV,tv.nu,19499777,160x600,6.8500000000000005,54.69,704.53,True
+Schibsted Sweden,SE-TV,tv.nu,19499777,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499777,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499777,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499779,1180x240,63.870000000000005,12094.33,24944.56,True
+Schibsted Sweden,SE-TV,tv.nu,19499779,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499779,980x120,20.830000000000002,318.21,1091.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499779,980x240,45.53,249.38,689.29,True
+Schibsted Sweden,SE-TV,tv.nu,19499779,980x360,38.1,8604.38,22586.5,True
+Schibsted Sweden,SE-TV,tv.nu,19499780,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499780,980x120,20.0,157.0,785.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499780,980x240,32.18,254.48,1006.36,True
+Schibsted Sweden,SE-TV,tv.nu,19499784,1180x240,53.349999999999994,3417.81,8267.84,True
+Schibsted Sweden,SE-TV,tv.nu,19499784,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499784,980x120,16.919999999999998,227.65,924.81,True
+Schibsted Sweden,SE-TV,tv.nu,19499784,980x240,36.07,260.41,1051.57,True
+Schibsted Sweden,SE-TV,tv.nu,19499784,980x360,100.0,0.0,0.0,False
+Schibsted Sweden,SE-TV,tv.nu,19499785,160x600,20.169999999999998,156.99,690.4,True
+Schibsted Sweden,SE-TV,tv.nu,19499785,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499785,250x360,30.769999999999996,499.77,1624.25,True
+Schibsted Sweden,SE-TV,tv.nu,19499785,250x480,100.0,0.0,0.0,False
+Schibsted Sweden,SE-TV,tv.nu,19499785,500x555,23.189999999999998,853.64,3464.76,True
+Schibsted Sweden,SE-TV,tv.nu,19499785,980x360,29.17,1007.17,2685.78,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,160x600,13.26,128.13,753.48,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,250x360,14.29,187.79,1314.5,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,500x555,13.700000000000001,486.47,2536.57,True
+Schibsted Sweden,SE-TV,tv.nu,19499786,980x360,18.75,67.19,268.75,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,1180x240,64.1,9926.72,24196.38,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,590x100,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,728x90,32.43,84.14,345.89,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,980x120,25.0,30.75,123.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,980x240,40.910000000000004,188.82,566.45,True
+Schibsted Sweden,SE-TV,tv.nu,19499787,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499789,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499789,980x120,48.15,203.44,422.54,True
+Schibsted Sweden,SE-TV,tv.nu,19499789,980x240,45.82,280.59,975.55,True
+Schibsted Sweden,SE-TV,tv.nu,19499789,980x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,160x600,2.52,16.72,443.17,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,250x480,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,500x555,9.09,8.27,91.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499790,980x360,20.0,137.6,344.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499791,160x600,5.029999999999999,24.89,494.62,True
+Schibsted Sweden,SE-TV,tv.nu,19499791,180x150,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499791,250x360,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499791,500x555,0.0,0.0,0.0,True
+Schibsted Sweden,SE-TV,tv.nu,19499791,980x360,20.0,18.2,91.0,True
