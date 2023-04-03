@@ -12,6 +12,7 @@ This directory is the main spot for executable code. All code in regards to repo
 
 ### final_reports
 This directory is where the resulting reports are stored before we send them to the client
+
 -----------------
 
 ### helpers
