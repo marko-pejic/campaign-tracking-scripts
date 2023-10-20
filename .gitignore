@@ -3,3 +3,4 @@ temp/*
 predictions/*
 datasets/impressions/
 reports/.ipynb_checkpoints/
+reports/*/*checkpoint.ipynb
